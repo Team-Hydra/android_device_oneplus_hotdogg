@@ -15,7 +15,7 @@ $(call inherit-product, device/oneplus/hotdogg/device.mk)
 $(call inherit-product, vendor/bliss/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_hotdogg
+PRODUCT_NAME := bliss_hotdogg
 PRODUCT_DEVICE := hotdogg
 PRODUCT_BRAND := OnePlus
 PRODUCT_MODEL := HD1925
